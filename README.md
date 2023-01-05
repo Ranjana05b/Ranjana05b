@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTMl CSS Javascript
+- 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email - ranjanagurjar5@gmail.com
 
