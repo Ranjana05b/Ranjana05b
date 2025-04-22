@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjana
 - 👀 I’m interested in Data Analysis, visualization and reporting.
-- 📫 How to reach me by email - ranjanagurjar5@gmail.com
+- 📫 How to reach me by email - ranjanabankey0705@gmail.com
 
 <!---
 Ranjana05b/Ranjana05b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
